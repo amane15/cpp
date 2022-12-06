@@ -1,0 +1,5 @@
+# for windows
+*.exe
+
+# for linux
+*.out
