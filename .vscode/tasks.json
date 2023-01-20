@@ -11,7 +11,7 @@
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe",
         "-pedantic-errors", // turn off compiler extensions
-        // Set warning levels to maximux
+        // Set warning levels to maximum
         "-Wall",
         "-Weffc++",
         "-Wextra",
