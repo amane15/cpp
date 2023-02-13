@@ -16,7 +16,7 @@
         "-Weffc++",
         "-Wextra",
         "-Wsign-conversion",
-        "-Werror", // Treat warnings as errors
+        // "-Werror", // Treat warnings as errors
         "-std=c++20"
       ],
       "options": {
