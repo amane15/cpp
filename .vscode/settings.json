@@ -51,6 +51,10 @@
     "functional": "cpp",
     "list": "cpp",
     "unordered_map": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "deque": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "stack": "cpp"
   }
 }
